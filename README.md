@@ -34,7 +34,7 @@ I am a passionate Software Engineer focused on architecting high-impact digital 
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/theaxl)
+- **LinkedIn:** [www.linkedin.com/in/theaxl](www.linkedin.com/in/theaxl)
 - **Portfolio/Web:** [unpocodetrux.com](https://unpocodetrux.com)
 - **Email:** theaxllay@gmail.com
 
