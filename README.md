@@ -1,6 +1,6 @@
 # Hi there, I'm Axl Layza 👋 
 
-### Systems Engineer (Senior) | Technical Lead | Full-stack & Unity Developer
+### Systems Engineer | Technical Lead | Full-stack & Unity Developer
 
 I am a passionate Software Engineer focused on architecting high-impact digital experiences. With experience leading multidisciplinary teams and modernizing enterprise-level infrastructures, I bridge the gap between complex business needs and scalable technology.
 
@@ -10,6 +10,7 @@ I am a passionate Software Engineer focused on architecting high-impact digital 
 * **[Un Poco de Trux]:** A B2B SaaS platform for local trade digitalization in Trujillo, built with **Laravel 12** and **MySQL**. Includes advanced admin panels and subscription management.
 * **EducaTechPlus:** A corporate LMS (Learning Management System) architected to secure and optimize employee training.
 * **AI Surveillance System:** Proactive threat detection using **YOLOv8** (Computer Vision).
+* * **Unity Interactive Environments:** 3D simulators and stress-management experiences developed in **Unity & C#**.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -32,14 +33,8 @@ I am a passionate Software Engineer focused on architecting high-impact digital 
 
 ---
 
-### 📊 GitHub Stats
-![Axl's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/theaxl)
 - **Portfolio/Web:** [unpocodetrux.com](https://unpocodetrux.com)
 - **Email:** theaxllay@gmail.com
 
